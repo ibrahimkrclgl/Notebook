@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.btn {
+  margin-right: 5px;
+
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+}
+
+textarea.form-control {
+  height: 150px;
+}
+
+/* Add margin between edit and delete buttons */
+.action-buttons .btn {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
